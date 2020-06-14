@@ -98,26 +98,8 @@ Este proyecto estÃ¡ bajo la Licencia (Licencia pÃºblica general de GNU) - mi
 - 🎮 sitio web        https://pericena.wordpress.com/
 - vimeo         https://vimeo.com/lpericena
 - 📷 instagram      https://www.instagram.com/lpericena/
-- 🎁 remote      https://remote.com/luishinopericena-choque
-- ⚛ google+   https://plus.google.com/u/0/114054031405340478901
-- 🚀 kiwi       https://kiwi.qa/LuishinoC
-- 📅 App    https://apps.facebook.com/167466933725219
-- 👻 Grupo    https://www.facebook.com/groups/122223121705126/?source_id=1506435219407506
-- 🎧 socialtools https://www.socialtools.me/index?action=demoApps&preview=1&app_id=406101
-- ツ teachlr    https://teachlr.com/lpericena
-- 📖  wikipedia  https://es.wikipedia.org/wiki/Usuario:Luishi%C3%B1o_Pericena_Choque
-- 📧 ask          https://ask.fm/Lpericena
-- 💻 stackoverflow  https://stackoverflow.com/users/6506592/luishi%C3%B1o-pericena-choque
-- 📡 wix https://lpericena.wixsite.com/curriculumvitae
-- ðŸ‘» Grupo    https://www.facebook.com/groups/122223121705126/?source_id=1506435219407506
-- ðŸŽ§ socialtools https://www.socialtools.me/index?action=demoApps&preview=1&app_id=406101
-- ãƒ?teachlr    https://teachlr.com/lpericena
-- ðŸ“–  wikipedia  https://es.wikipedia.org/wiki/Usuario:Luishi%C3%B1o_Pericena_Choque
-- ðŸ“§ ask          https://ask.fm/Lpericena
-- ðŸ’» stackoverflow  https://stackoverflow.com/users/6506592/luishi%C3%B1o-pericena-choque
-- ðŸ“¡ wix https://lpericena.wixsite.com/curriculumvitae
 
-* Gracias  ðŸ¤“.
+* Gracias  ðŸ¤“
 
 ---
- Por [Pericena](https://github.com/Pericena) ðŸ˜Š
+ Por [Pericena](https://github.com/Pericena)
